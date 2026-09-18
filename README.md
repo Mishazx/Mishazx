@@ -16,6 +16,8 @@
 
 ![Frontend: JavaScript, TypeScript, HTML, CSS, React, Redux, Vite, Tailwind CSS](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,vite,tailwind)
 
+JavaScript · TypeScript · HTML · CSS · React · Redux · Vite · Tailwind CSS
+
 ### Mobile
 
 ![Mobile: React Native](https://skillicons.dev/icons?i=react)
@@ -26,13 +28,19 @@ React Native · Expo
 
 ![Backend: Python, Go, Java, Node.js, FastAPI, Flask, Django, SQLAlchemy](https://skillicons.dev/icons?i=python,go,java,nodejs,fastapi,flask,django,sqlalchemy)
 
+Python · Go · Java · Node.js · FastAPI · Flask · Django · SQLAlchemy
+
 ### Databases
 
 ![Databases: PostgreSQL, MySQL, Redis](https://skillicons.dev/icons?i=postgres,mysql,redis)
 
+PostgreSQL · MySQL · Redis
+
 ### Tools
 
 ![Tools: Git, Bash, VS Code, Docker, Linux, Figma, GitHub Actions, Pytest](https://skillicons.dev/icons?i=git,bash,vscode,docker,linux,figma,githubactions,pytest)
+
+Git · Bash · VS Code · Docker · Linux · Figma · GitHub Actions · Pytest
 
 ## GitHub stats
 
